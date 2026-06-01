@@ -30,6 +30,8 @@ This project predicts student scores using Machine Learning techniques. The mode
 * `student-scoring-system.ipynb` – Data analysis and model training notebook
 * `model.pkl` – Trained machine learning model
 * `app.py` – Flask application for score prediction
+  
+![image alt](https://github.com/PrabhuYaswanth/Student-score-prediction/blob/8d75f88130e4e93055ae65ee998700ef723980f9/Screenshot%202026-06-01%20160033.png)
 
 ## Machine Learning Workflow
 
